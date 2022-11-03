@@ -3,11 +3,11 @@
 //! This crate offers:
 //! # 云片 短信发送sdk
 //! Features:
-//! *   官网5年前提交的sdk先已不能使用，特更新了一个
+//! *   云片5年前提交的sdk已不能使用，特更新了一个
 //! 
 //! 
 //! ## Installation
-//! Put the desired version of the crate into the `dependencies` section of your `Cargo.toml`:
+//! 将所需版本的crate放入dependencies的部分 `Cargo.toml`:
 //! ```toml
 //! [dependencies]
 //! yunpian-sdk = "*"

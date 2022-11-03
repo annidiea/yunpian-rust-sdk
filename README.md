@@ -7,7 +7,7 @@
 
 This crate offers:
 
-*   官网5年前提交的sdk先已不能使用，特更新了一个
+*   官网5年前提交的sdk已不能使用，特更新了一个
 
 Features:
 
@@ -16,7 +16,7 @@ Features:
 
 ### Installation
 
-Put the desired version of the crate into the `dependencies` section of your `Cargo.toml`:
+将所需版本的crate放入dependencies的部分 `Cargo.toml`:
 
 ```toml
 [dependencies]
