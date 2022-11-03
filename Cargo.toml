@@ -1,6 +1,6 @@
 [package]
 name = "yunpian-sdk"
-version = "0.1.0"
+version = "0.1.1"
 edition = "2021"
 description = "云片短信sdk"
 license = "MIT OR Apache-2.0"
